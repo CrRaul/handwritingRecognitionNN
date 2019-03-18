@@ -1,0 +1,2 @@
+# handwritingRecognitionNN
+handwritingRecognitionNN
